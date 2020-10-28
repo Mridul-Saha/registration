@@ -1,0 +1,98 @@
+* {
+    margin: 0px font-family: 'Trispace', sans-serif;
+}
+
+body {
+    background: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.container {
+    width: 500px;
+    margin: 10% auto;
+
+}
+
+.reset-section {
+    background: #d6d6d69e;
+    padding: 25px;
+    border-radius: 30px;
+}
+
+.reset-section img {
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+}
+
+.reset-section h2 {
+    text-transform: uppercase;
+    text-align: center;
+    color: #1b272d;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Trispace', sans-serif;
+}
+
+.reset-section p {
+    text-align: center;
+    color: #1b272d;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Trispace', sans-serif;
+}
+
+.form-control {
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.send-btn {
+    background-color: #4e7ab5;
+    border: none;
+    color: white;
+    margin: 0 auto;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 10px;
+    transition-duration: 0.10s ease-in-out;
+    -webkit-transition-duration: 0.10s ease-in-out;
+    -moz-transition-duration: 0.10s ease-in-out;
+}
+
+.send-btn:hover {
+    box-shadow: 0 10px 12px 0;
+    cursor: pointer;
+}
+
+.log-reg-btn {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.log-btn {
+    background-color: #4e7ab5;
+    border: none;
+    color: white;
+    margin: 0 auto;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.reg-btn {
+    background-color: #4e7ab5;
+    border: none;
+    color: white;
+    margin-left: 185px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
